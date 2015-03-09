@@ -1,2 +1,2 @@
 # matrix
-This is the files for the course "Coding the Matrix"
+These are the files for the course "Coding the Matrix"
